@@ -11,6 +11,7 @@ Then, in your repository settings (Secrets and variables -> Actions), add two re
 
 Once your secrets are set, try making changes: edit code, update documentation, or add tests. Check the course Discord server to see which badges you unlock!
 
+update
 
 ### Badges available
 * 🦉 Night Owl — committed after midnight (0-5 am)
